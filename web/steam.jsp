@@ -37,8 +37,6 @@
             <li>ROCKET LEAGUE</li>
             <li>DOTA 2</li>
             <li>CSGO</li>
-            <li>THE WITCHER 3</li>
-            <li>PES</li>
             <li>GRAND THEFT AUTO</li>
             <ul></ul>
             <form action="acao.jsp" method="get">
