@@ -17,22 +17,23 @@
         <%  
         if(acao.equals("1")){
       
-            request.getRequestDispatcher("rocketleague.html").forward(request, response);
+            request.getRequestDispatcher("thesims.html").forward(request, response);
       
         } if(acao.equals("2")){
       
-            request.getRequestDispatcher("Dota.html").forward(request, response);
+            request.getRequestDispatcher("dragonage.html").forward(request, response);
       
         } if(acao.equals("3")){
       
-            request.getRequestDispatcher("csgo.html").forward(request, response);
+            request.getRequestDispatcher("fifa.html").forward(request, response);
       
         }  if(acao.equals("4")){
       
-            request.getRequestDispatcher("gta.html").forward(request, response);
+            request.getRequestDispatcher("maddennfl.html").forward(request, response);
         }
 
         
         %>
     </body>
 </html>
+
