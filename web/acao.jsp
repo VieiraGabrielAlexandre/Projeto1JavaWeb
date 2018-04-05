@@ -17,19 +17,19 @@
         <%  
         if(acao.equals("1")){
       
-            request.getRequestDispatcher("rocketleague.html").forward(request, response);
+            request.getRequestDispatcher("rocketleague.jsp").forward(request, response);
       
         } if(acao.equals("2")){
       
-            request.getRequestDispatcher("Dota.html").forward(request, response);
+            request.getRequestDispatcher("Dota.jsp").forward(request, response);
       
         } if(acao.equals("3")){
       
-            request.getRequestDispatcher("csgo.html").forward(request, response);
+            request.getRequestDispatcher("csgo.jsp").forward(request, response);
       
         }  if(acao.equals("4")){
       
-            request.getRequestDispatcher("gta.html").forward(request, response);
+            request.getRequestDispatcher("gta.jsp").forward(request, response);
         }
 
         

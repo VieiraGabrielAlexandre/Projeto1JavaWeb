@@ -22,13 +22,12 @@
 </head>
 <body>
     <div class="conteudo">
-        <h2>Rocket League</h2>
-        Rocket League √© um jogo eletr√¥nico de futebol veicular desenvolvido e <br>
-        publicado pela Psyonix. Foi lan√ßado pela primeira vez para Microsoft <br>
-        Windows e PlayStation 4 em julho de 2015, com as portes para o Xbox <br>
-        One, MacOS, Linux e Nintendo Switch sendo lan√ßados posteriormente. <br>
-        Em junho de 2016, a 505 Games come√ßou a distribuir uma vers√£o 
-        <br>f√≠sica para o PlayStation 4 e Xbox One, com a Warner Bros.
-    </div>
+        <h2>Madden NFL</h2>
+        Madden NFL È uma sÈrie de jogos eletronicos de futebol americano desenvolvida <br>
+        pela Electronic Arts para a EA Sports. Seu nome √© uma referncÍia ao antigo <br>
+        jogador e tÈcnico vencedor do Super Bowl, John Madden. Apos sua aposentadoria <br>
+        como tÈcnico, Madden vinha trabalhando como comentarista dos jogos de futebol<br>
+        americano, tendo passado pelas quatro maiores redes americanas, a ABC, CBS, <br>
+        FOX e atÈ o fim de sua carreira, em abril de 2009, pela NBC.
 </body>
 </html>

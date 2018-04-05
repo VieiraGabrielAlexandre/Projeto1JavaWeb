@@ -22,12 +22,11 @@
 </head>
 <body>
     <div class="conteudo">
-        <h2>Dota</h2>
-            Dota 2 Ã© um jogo eletrÃ´nico do gÃªnero Action Real-Time Strategy (abreviado <br>
-            como ARTS) ou tambÃ©m considerado do gÃªnero Multiplayer Online Battle<br> 
-            Arena (abreviado como MOBA), foi desenvolvido pela Valve Corporation<br>
-            como sequÃªncia do Defense of the Ancients (DotA), uma modificaÃ§Ã£o <br>
-            (mod) em um mapa desenvolvido para Warcraft III: The Frozen Throne.
-    </div>
+        <h2>Dragon Age</h2>
+            TDragon Age: Origins é um jogo eletrÃ´nico de RPG desenvolvido pela <br>
+            BioWare Edmonton e descrito por eles como sendo um "conto épico de <br>
+            violência, luxuria e traição". Dragon Age: Origins usa um engine de<br>
+            jogo chamado Eclipse, para qual um conjunto de ferramentas para criação<br>
+            de conteudo personalizado estão disponivel para os jogadores da versão de PC.
 </body>
 </html>

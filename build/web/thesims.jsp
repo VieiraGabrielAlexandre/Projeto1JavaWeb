@@ -23,11 +23,11 @@
 <body>
     <div class="conteudo">
         <h2>The Sims</h2>
-            The Sims (Os Sims em Portugal) √© uma s√©rie de jogos eletr√¥nicos de <br>
-            simula√ß√£o de vida real criado pelo designer de jogos Will Wright e <br>
-            produzida pela Maxis. O primeiro jogo da s√©rie, The Sims, foi lan√ßado <br>
+            The Sims (Os Sims em Portugal) È uma sÈrie de jogos eletrÙnicos de <br>
+            simulaÁ„o de vida real criado pelo designer de jogos Will Wright e <br>
+            produzida pela Maxis. O primeiro jogo da sÈrie, The Sims, foi lanÁado <br>
             em 4 de fevereiro de 2000. Nos jogos, o jogador cria e controla a vida <br>
-            de pessoas virtuais (chamadas de "Sims") e constr√≥i casas e lotes. <br>
-            O jogo atraiu legi√µes de f√£s, devido a sua simplicidade e objetividade.
+            de pessoas virtuais (chamadas de "Sims") e construir casas e lotes. <br>
+            O jogo atraiu legiıes de f‚s, devido a sua simplicidade e objetividade.
 </body>
 </html>

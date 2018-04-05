@@ -1,0 +1,28 @@
+
+
+h1{
+  border: 1px dashed black;
+  text-align: center;
+  width: 200px;
+  padding: 2em;
+  margin: 50px 0 0 130px;
+}
+li{
+  display: inline-block;
+}
+.container{
+  border: 1px solid black;
+  width: 600px;
+  /*height: 400px; */
+  position:absolute; 
+    top:30%;
+    left:30%;
+    margin-top:-70px;
+    margin-left:-70px;
+    border: 1px solid black;
+    padding: 0 50px 0 50px;
+}
+
+img{
+  margin: 30px 80px;
+}

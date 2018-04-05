@@ -26,7 +26,7 @@
            
       if(email.equalsIgnoreCase("123@123.com") && senha.equals("123")){
       out.println("LOGIN FEITO");
-      request.getRequestDispatcher("steam.jsp").forward(request, response);
+      request.getRequestDispatcher("tela2.jsp").forward(request, response);
       
       } else {
        out.println("ERRO NO LOGIN");

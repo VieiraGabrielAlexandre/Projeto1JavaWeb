@@ -17,19 +17,19 @@
         <%  
         if(acao.equals("1")){
       
-            request.getRequestDispatcher("thesims.html").forward(request, response);
+            request.getRequestDispatcher("thesims.jsp").forward(request, response);
       
         } if(acao.equals("2")){
       
-            request.getRequestDispatcher("dragonage.html").forward(request, response);
+            request.getRequestDispatcher("dragonage.jsp").forward(request, response);
       
         } if(acao.equals("3")){
       
-            request.getRequestDispatcher("fifa.html").forward(request, response);
+            request.getRequestDispatcher("fifa.jsp").forward(request, response);
       
         }  if(acao.equals("4")){
       
-            request.getRequestDispatcher("maddennfl.html").forward(request, response);
+            request.getRequestDispatcher("maddennfl.jsp").forward(request, response);
         }
 
         

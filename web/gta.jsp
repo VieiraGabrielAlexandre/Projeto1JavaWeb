@@ -22,14 +22,13 @@
 </head>
 <body>
     <div class="conteudo">
-        <h2>FIFA</h2>
-        FIFA, também conhecido como FIFA Football ou FIFA Soccer, é uma série<br>
-        de videojogos de simuladores de futebol, lançados anualmente pela <br>
-        Electronic Arts (EA) sobre a chancela EA Sports. Apesar de não haver <br>
-        grande concorrência quando a EA lançou os primeiros títulos das séries <br>
-        Madden NFL e NHL, os jogos de futebol como Sensible Soccer, Kick Off e <br>
-        Match Day já estavam a ser produzidos desde os finais de 1980 e já eram<br>
-        competitivos no mercado quando a EA anunciou um jogo de futebol em adição <br>
-        à marca EA Sports.
+        <h2>GTA V</h2>
+            Grand Theft Auto V � um jogo eletr�nico de a��o-aventura desenvolvido <br>
+            pela Rockstar North e publicado pela Rockstar Games. � o setimo <br>
+            titulo principal da serie Grand Theft Auto. O jogo se passa no estado <br>
+            ficcional de San Andreas, com a histioa da campanha um jogador <br>
+            seguindo tres criminosos e seus esforços para realizarem assaltos sob <br>
+            a pressao de uma agencia governamental.  
+    </div>
 </body>
 </html>

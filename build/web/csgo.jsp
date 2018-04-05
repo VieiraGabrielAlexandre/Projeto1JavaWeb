@@ -23,15 +23,15 @@
 <body>
     <div class="conteudo">
         <h2>CS-GO</h2>
-            Counter-Strike: Global Offensive (CS:GO) é um jogo online <br>
+            Counter-Strike: Global Offensive (CS:GO) � um jogo online <br>
             desenvolvido pela Valve Corporation e pela Hidden Path Entertainment,<br>
-            sendo uma sequência de Counter-Strike: Source. É o quarto título <br>
+            sendo uma sequencia de Counter-Strike: Source. � o quarto titulo <br>
             principal da franquia.O jogo conta com conteúdo clássico, como <br>
-            versões retrabalhadas de mapas clássicos, bem como novos mapas, <br>
+            versões retrabalhadas de mapas cl�ssicos, bem como novos mapas, <br>
             personagens e modos de jogo. O sistema multiplayer multi-plataformas <br>
             foi planejado entre jogadores de Windows, OS X, Linux e PSN, mas acabou <br>
             excluindo o PSN por causa das diferenças na frequência de <br>
-            atualização dos sistemas
+            atualiza��o dos sistemas
     </div>
 </body>
 </html>

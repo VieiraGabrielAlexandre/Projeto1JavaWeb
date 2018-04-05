@@ -40,7 +40,7 @@
             <li>GRAND THEFT AUTO</li>
             <ul></ul>
             <form action="acao.jsp" method="get">
-                <input type="text"  name="escolha" placeholder="Digite o N* da opcao"/> <br><br>
+                <input type="text"  name="escolha" placeholder="Digite o Nº da opcao"/> <br><br>
                 <input type="submit"  value="entrar"/>
             </form>
         </ol>
